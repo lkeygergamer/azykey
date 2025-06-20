@@ -47,7 +47,7 @@ Cada bug... um plot twist que só o protagonista supera."
 > Nível de Caos:               ███████░░░░░░░░
 > Autodocumentação:            ██░░░░░░░░░░░░░
 > Consistência nos Commits:    █░░░░░░░░░░░░░░
-> Filosofia de Dev:            "Push first. Fix later."
+> Filosofia de EGN:            "Push first. Fix later."
 ````
 
 ---
